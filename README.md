@@ -12,4 +12,4 @@ npm install
 # Add your Gemini API Key in .env
 VITE_GEMINI_API_KEY=your_key_here
 
-npm start
+npm run dev 
